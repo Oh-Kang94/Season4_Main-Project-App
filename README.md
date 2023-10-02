@@ -22,7 +22,12 @@ Swift의 UIKit을 이용한 App
 </a> 
 
 ---
+### 시연 영상
+<a href = "https://drive.google.com/file/d/103j-jACxvyxav3VZZQgOxRM-zBV829pW/view?usp=share_link">
+  <img src = "https://github.com/Oh-Kang94/Season4_Main-Project-App/blob/feature/Readme/readme/images/Splash%20Screen.jpg" alt="image" ,height="50%", width="50%">
+</a>
 
+---
 ### 
 기능 설명
 - JWT를 이용한 인증 및 로그인 기능
@@ -39,8 +44,4 @@ Swift의 UIKit을 이용한 App
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/slack_tile_logo_icon_168820.png" height="53" title="Slack">
     <img src="https://cdn.icon-icons.com/icons2/3913/PNG/512/miro_logo_icon_248450.png" height="53" title="Miro">
 </p>
----
-### 시연 영상
-<a href = "https://drive.google.com/file/d/103j-jACxvyxav3VZZQgOxRM-zBV829pW/view?usp=share_link">
-  <img src = "https://github.com/Oh-Kang94/Season4_Main-Project-App/blob/feature/Readme/readme/images/Splash%20Screen.jpg" alt="image" ,height="50%", width="50%">
-</a>
+
