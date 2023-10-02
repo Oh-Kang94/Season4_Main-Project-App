@@ -8,8 +8,15 @@ Swift의 UIKit을 이용한 App
 <br/>
 <img src = https://github.com/Oh-Kang94/Season4_Main-Project-App/blob/main/readme/images/App%20Mockup.jpg> </img>
 ---
+### 시연 영상
+<a href = "https://drive.google.com/file/d/103j-jACxvyxav3VZZQgOxRM-zBV829pW/view?usp=share_link">
+  <img src = "https://github.com/Oh-Kang94/Season4_Main-Project-App/blob/feature/Readme/readme/images/Splash%20Screen.jpg" alt="image" ,height="50%", width="50%">
+</a>
+
+---
+
 ### 연관 Github 이동하기
-<a href="https://github.com/Oh-Kang94/Season3_Main-Project_Disabled-Server">
+<a href= "https://github.com/Oh-Kang94/Season3_Main-Project_Disabled-Server">
   <img src="https://github.com/Oh-Kang94/Season4_Main-Project-App/blob/main/readme/images/SwaggerUI.png" alt="image" ,height="50%", width="50%"><br/>             
   서버 Github으로 이동하기 
 </a>         
