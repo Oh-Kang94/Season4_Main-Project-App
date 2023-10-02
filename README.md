@@ -1,4 +1,4 @@
-# DatFlix - AI기반 댓글 분석 App
+# DATFLIX - AI기반 댓글 분석 App
 
 ----
 댓글 기반의 AI 추천 및 코사인 유사도를 이용한 영화 추천하기 위한 App         
@@ -10,7 +10,7 @@ Swift의 UIKit을 이용한 App
 ---
 
 ### 연관 Github 이동하기
-<a href= "https://github.com/Oh-Kang94/Season3_Main-Project_Disabled-Server">
+<a href= "https://github.com/Oh-Kang94/Season4_Main-project-Server">
   <img src="https://github.com/Oh-Kang94/Season4_Main-Project-App/blob/main/readme/images/SwaggerUI.png" alt="image" ,height="50%", width="50%"><br/>             
   서버 Github으로 이동하기 
 </a>         
