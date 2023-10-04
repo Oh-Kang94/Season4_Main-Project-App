@@ -260,16 +260,18 @@ extension MovieViewController: JSONMovieQueryModelProtocol {
             
             if movie.ott != "영화"{
                 ottList.append(movie)
+            }else{ // ott가 아닌 데이터 중에서 고르기
+                if movie.genre.contains("드라마"){
+                    dramaList.append(movie)
+                }
+                if movie.genre.contains("애니메이션"){
+                    animeList.append(movie)
+                }
+                if movie.genre.contains("로맨스") || movie.genre.contains("멜로"){
+                    romanceList.append(movie)
+                }
             }
-            if movie.genre.contains("드라마"){
-                dramaList.append(movie)
-            }
-            if movie.genre.contains("애니메이션"){
-                animeList.append(movie)
-            }
-            if movie.genre.contains("로맨스") || movie.genre.contains("멜로"){
-                romanceList.append(movie)
-            }
+            
         }
         self.cvListView.reloadData()
         self.cvOTTView.reloadData()

@@ -124,8 +124,8 @@ class TheaterViewController: UIViewController, CLLocationManagerDelegate {
     
     // 위치 정보를 사용하여 웹뷰를 로드하는 함수
         func loadWebViewWithLocation() {
-            if let latitude = currentLatitude, let longitude = currentLongitude {
-                let site = SiteRequest()
+            if let _ = currentLatitude, let _ = currentLongitude {
+                let _ = SiteRequest()
                 let urlString = "\(HOST):\(PORT)/map/preview"
                 
                 if urlString.hasPrefix("http://") || urlString.hasPrefix("https://") {
