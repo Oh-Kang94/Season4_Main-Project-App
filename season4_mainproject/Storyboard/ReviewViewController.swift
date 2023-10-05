@@ -111,7 +111,7 @@ class ReviewViewController: UIViewController {
         let cosmosView = CosmosView()
         cosmosView.settings.fillMode = .precise
         cosmosView.settings.updateOnTouch = false
-        self.rating = Double(percentage)! / 20.0
+        self.rating = Double(percentage)! * 100 / 20.0
         cosmosView.rating = self.rating
         self.cosmosOh.rating = self.rating
 
